@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<h1 style='color:blue'>Alhamdullillah we can now see the pipeline running automatically with auto service restarts</h1>"
+    return "<h1 style='color:blue'>Alhamdullillah!!!</h1>"
 
 
 if __name__ == "__main__":
